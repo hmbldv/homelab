@@ -37,3 +37,20 @@ I have an IDE. I have Git. I have GitHub.
 <br>
 I have Docker. Now I must learn to use it. 
 <p>
+
+## Homepage
+
+Homepage. Frontpage. Dashboard. all my future services will become accessible here and therefore it is prudent I have a landing page and a consistent space with which to access them. A Bookmarks bar simply is not enough anymore and this will be my key starting point. I set this up with docker compose.
+
+https://gethomepage.dev/installation/docker/
+
+### Key features
+- <b>Quick Launch:</b> Just type and I can search for services or google directly
+- <b>Organized Links:</b> Infrastructure, projects, bookmarks, this is now my landing page for new tabs.
+- <b>Services Status:</b> Once I get more services I can expand 
+
+## Portainer
+
+While Docker is something I have worked with for quite some time ina simple sense I haven't yet graduated to swarms or kubernetes and Portainer seems like a great product to cut my teeth on. Seeing the stacks, volumes, and networking simplifies the docker capabilities for me.
+
+In the future I am looking forward to exploring more container registries and learning about hardening containers. 
